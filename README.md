@@ -3,7 +3,7 @@
 A modern, mobile-first portfolio website built as a front-end development assignment.  
 It showcases clean design, accessibility, responsive layout techniques, dark mode support, and smooth interactions.
 
-**Live Demo:** https://your-username.github.io/your-repo-name/
+**Live Demo:** (https://github.com/TheFuhrer-leader/advanced-css-page)
 
 ## Features Implemented
 
@@ -35,4 +35,4 @@ It showcases clean design, accessibility, responsive layout techniques, dark mod
 
 ---
 
-Built in March 2026 – Effingham, IL
+
