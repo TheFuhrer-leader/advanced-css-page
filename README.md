@@ -31,7 +31,8 @@ It showcases clean design, accessibility, responsive layout techniques, dark mod
 
 
 ### Mobile View
-![Mobile screenshot of the portfolio landing page](portfolio-mobile.png)
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/41c0f4c8-6ab5-448b-a8dd-317ccb43b8c3" />
+
 
 ---
 
